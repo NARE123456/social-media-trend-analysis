@@ -71,4 +71,4 @@ Multiple chart types per platform (line, bar, pie, candlestick, box).
 
 Real-time ready → can connect APIs in the future.
 
-Hackathon friendly → visually engaging, easy to present, and impactful.[dashboards.pdf](https://github.com/user-attachments/files/21933086/dashboards.pdf)
+Hackathon friendly → visually engaging, easy to present, and impactful.
